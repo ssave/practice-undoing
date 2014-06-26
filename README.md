@@ -7,6 +7,7 @@
 
 #Notes /Resources
 * git commit -am "message"
-*git reset
+* git reset
 * git reset HEAD
-*
+* git reset again
+* git commit -am "message"
